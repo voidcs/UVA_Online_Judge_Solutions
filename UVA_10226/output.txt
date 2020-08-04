@@ -1,0 +1,248 @@
+Aspen 0
+Basswood 0
+Beech 0
+Black Walnut 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Soft Maple 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
+
+Ash 0
+Aspen 0
+Basswood 0
+Beech 0
+Black Walnut 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Soft Maple 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
+
+Aspen 0
+Basswood 0
+Beech 0
+Black Walnut 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Soft Maple 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
+
+Ash 0
+Aspen 0
+Basswood 0
+Beech 0
+Black Walnut 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Hickory 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Soft Maple 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
+
+Ash 0
+Aspen 0
+Basswood 0
+Beech 0
+Black Walnut 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Hickory 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Soft Maple 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
+
+Ash 0
+Aspen 0
+Basswood 0
+Beech 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Hickory 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
+
+Ash 0
+Aspen 0
+Basswood 0
+Beech 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Hickory 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
+
+Ash 0
+Aspen 0
+Basswood 0
+Beech 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Hickory 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
+
+Ash 0
+Aspen 0
+Basswood 0
+Beech 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Hickory 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
+
+Ash 0
+Aspen 0
+Basswood 0
+Beech 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Hickory 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
+
+Ash 0
+Aspen 0
+Basswood 0
+Beech 0
+Black Walnut 0
+Cherry 0
+Cottonwood 0
+Cypress 0
+Gum 0
+Hackberry 0
+Hard Maple 0
+Hickory 0
+Pecan 0
+Poplan 0
+Red Alder 0
+Red Elm 0
+Red Oak 0
+Sassafras 0
+Soft Maple 0
+Sycamore 0
+White Oak 0
+Willow 0
+Yellow Birch 0
